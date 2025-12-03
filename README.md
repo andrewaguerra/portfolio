@@ -21,8 +21,12 @@
 - Responded to on-call incidents, mediations, and wellness check-ins  
 - Collaborated with a team of 9 RAs serving a 700+ resident community  
 
-**Community Service Officer – UCSB Police Department (_Dec 2023 – Present_)**
+**Community Service Officer – UCSB Police Department (_Dec 2023 – Nov 2025_)**
 - Provided nighttime safety escorts and acted as liaison between students and UCPD  
 - Operated two-way radios, logged incidents, and coordinated with dispatch  
 - Supported event security for concerts and campus gatherings  
-- Maintained an Excel database of 1,200+ bike registrations/impounds with 99% accuracy 
+- Maintained an Excel database of 1,200+ bike registrations/impounds with 99% accuracy
+
+## Projects
+
+**Diamond Prices Prediction Model - A Multiple Linear Regression Analysis (_Jun 2025_)**
